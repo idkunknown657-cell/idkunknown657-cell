@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vSnipped=true&width=680&lines=Hi%2C+I'm+idkunknown657-cell;I+build+useful%2C+customizable+apps;Python+%C2%B7+Automation+%C2%B7+Voice+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vSnipped=true&width=680&lines=Hi%2C+I'm+idkunknown657-cell;I+build+useful%2C+customizable+apps;Python+%C2%B7+Automation+%C2%B7+Free+Alternatives" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=140&section=header&text=&fontColor=ffffff" alt="" />
 
@@ -11,10 +11,10 @@
 
 ### 🚀 What I do
 
-I build **useful, customizable apps** — from local-first AI voice assistants to small Python tools that solve real problems.
+I build **useful, customizable apps** — free and open alternatives to expensive paid software, plus small Python tools that solve real problems.
 I care about software that runs on **your** machine, under **your** control.
 
-> 🔊 Currently building **[ICE-JARVIS](https://github.com/idkunknown657-cell/ICE-JARVIS)** — a local-first, open-source voice companion for Windows with natural English/Hindi/Hinglish conversation, full PC control by voice, local memory and zero telemetry.
+**Ideas I'm building toward:** screen & media tools, productivity utilities, privacy-first alternatives to subscription apps.
 
 ---
 
@@ -27,7 +27,7 @@ I care about software that runs on **your** machine, under **your** control.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zap&logoColor=white" alt="Automation" />
-  <img src="https://img.shields.io/badge/Voice%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Voice AI" />
+  <img src="https://img.shields.io/badge/Free%20Alternatives-10B981?style=for-the-badge&logo=gnu&logoColor=white" alt="Free alternatives" />
   <img src="https://img.shields.io/badge/Open%20Source-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
