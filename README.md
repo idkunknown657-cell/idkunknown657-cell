@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vSnipped=true&width=680&lines=Hi%2C+I'm+idkunknown657-cell;I+build+useful%2C+customizable+apps;Python+%C2%B7+Automation+%C2%B7+Free+Alternatives" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3200&pause=900&color=8B5CF6&center=true&vSnipped=true&width=680&lines=Hi%2C+I'm+idkunknown657-cell;I+build+useful%2C+customizable+apps;Py+%C2%B7+Automation+%C2%B7+Free+Alternatives" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=140&section=header&text=&fontColor=ffffff" alt="" />
 
