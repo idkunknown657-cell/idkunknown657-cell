@@ -37,8 +37,9 @@ I care about software that runs on **your** machine, under **your** control.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idkunknown657-cell&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=3B82F6" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkunknown657-cell&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8B5CF6" alt="Top languages" />
+  <img height="170em" src="https://streak-stats.demolab.com/?user=idkunknown657-cell&theme=radical&hide_border=true&background=0D1117&border=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=6B7280&excludeDaysLabel=6B7280" alt="GitHub streak" />
+  <br/>
+  <img src="https://ghchart.rshah.org/8B5CF6/idkunknown657-cell" alt="Contribution chart" />
 </div>
 
 ---
@@ -49,7 +50,5 @@ I care about software that runs on **your** machine, under **your** control.
 
 [![GitHub followers](https://img.shields.io/github/followers/idkunknown657-cell?style=for-the-badge&logo=github&labelColor=0d1117&color=8B5CF6)](https://github.com/idkunknown657-cell)
 [![GitHub stars](https://img.shields.io/github/stars/idkunknown657-cell/ICE-JARVIS?style=for-the-badge&logo=github&labelColor=0d1117&color=3B82F6)](https://github.com/idkunknown657-cell/ICE-JARVIS)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idkunknown657-cell&bg_color=0d1117&color=8B5CF6&line_color=3B82F6&point_color=06B6D4&hide_border=true" alt="Activity graph" />
 
 </div>
